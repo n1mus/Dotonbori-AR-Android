@@ -1,0 +1,2286 @@
+#
+# Wavefront material file: C:\Users\jschulze\Desktop\campus\campus.mtl
+#
+# Converted by the PolyTrans geometry converter from Okino Computer Graphics, Inc.
+# Date/time of export: 11/23/2010 17:17:52
+#
+# Bounding box of geometry = (0,-15.6131,-58417.4) to (68620.1,723.398,3193.64).
+
+newmtl default
+	Ns 32
+	d 1
+	illum 2
+	Kd 0.4 0.4 0.4
+	Ks 0.7 0.7 0.7
+	Ka 0.3 0.3 0.3
+
+newmtl surface
+	Ns 58
+	d 1
+	illum 2
+	Kd 0.8 0.717647 0.478431
+	Ks 0.33 0.33 0.33
+	Ka 0 0 0
+
+newmtl surface__10
+	Ns 58
+	d 1
+	illum 2
+	Kd 0.8 0.717647 0.478431
+	Ks 0.33 0.33 0.33
+	Ka 0 0 0
+
+newmtl surface__100
+	Ns 58
+	d 1
+	illum 2
+	Kd 0.560784 0.568627 0.6
+	Ks 0.33 0.33 0.33
+	Ka 0 0 0
+
+newmtl surface__101
+	Ns 58
+	d 1
+	illum 2
+	Kd 0.752941 0.752941 0.752941
+	Ks 0.33 0.33 0.33
+	Ka 0 0 0
+
+newmtl surface__102
+	Ns 58
+	d 1
+	illum 2
+	Kd 0.560784 0.568627 0.6
+	Ks 0.33 0.33 0.33
+	Ka 0 0 0
+
+newmtl surface__103
+	Ns 58
+	d 1
+	illum 2
+	Kd 0.752941 0.752941 0.752941
+	Ks 0.33 0.33 0.33
+	Ka 0 0 0
+
+newmtl surface__104
+	Ns 58
+	d 1
+	illum 2
+	Kd 0.560784 0.568627 0.6
+	Ks 0.33 0.33 0.33
+	Ka 0 0 0
+
+newmtl surface__105
+	Ns 58
+	d 1
+	illum 2
+	Kd 0.752941 0.752941 0.752941
+	Ks 0.33 0.33 0.33
+	Ka 0 0 0
+
+newmtl surface__106
+	Ns 58
+	d 1
+	illum 2
+	Kd 0.560784 0.568627 0.6
+	Ks 0.33 0.33 0.33
+	Ka 0 0 0
+
+newmtl surface__107
+	Ns 58
+	d 1
+	illum 2
+	Kd 0.752941 0.752941 0.752941
+	Ks 0.33 0.33 0.33
+	Ka 0 0 0
+
+newmtl surface__108
+	Ns 58
+	d 1
+	illum 2
+	Kd 0.560784 0.568627 0.6
+	Ks 0.33 0.33 0.33
+	Ka 0 0 0
+
+newmtl surface__109
+	Ns 58
+	d 1
+	illum 2
+	Kd 0.752941 0.752941 0.752941
+	Ks 0.33 0.33 0.33
+	Ka 0 0 0
+
+newmtl surface__11
+	Ns 58
+	d 1
+	illum 2
+	Kd 1 1 1
+	Ks 0.33 0.33 0.33
+	Ka 0 0 0
+
+newmtl surface__110
+	Ns 58
+	d 1
+	illum 2
+	Kd 0.560784 0.568627 0.6
+	Ks 0.33 0.33 0.33
+	Ka 0 0 0
+
+newmtl surface__111
+	Ns 58
+	d 1
+	illum 2
+	Kd 0.752941 0.752941 0.752941
+	Ks 0.33 0.33 0.33
+	Ka 0 0 0
+
+newmtl surface__112
+	Ns 58
+	d 1
+	illum 2
+	Kd 0.411765 0.411765 0.411765
+	Ks 0.33 0.33 0.33
+	Ka 0 0 0
+
+newmtl surface__113
+	Ns 58
+	d 1
+	illum 2
+	Kd 0.560784 0.568627 0.6
+	Ks 0.33 0.33 0.33
+	Ka 0 0 0
+
+newmtl surface__114
+	Ns 58
+	d 1
+	illum 2
+	Kd 0.411765 0.411765 0.411765
+	Ks 0.33 0.33 0.33
+	Ka 0 0 0
+
+newmtl surface__115
+	Ns 58
+	d 1
+	illum 2
+	Kd 0.560784 0.568627 0.6
+	Ks 0.33 0.33 0.33
+	Ka 0 0 0
+
+newmtl surface__116
+	Ns 58
+	d 1
+	illum 2
+	Kd 0.411765 0.411765 0.411765
+	Ks 0.33 0.33 0.33
+	Ka 0 0 0
+
+newmtl surface__117
+	Ns 58
+	d 1
+	illum 2
+	Kd 0.560784 0.568627 0.6
+	Ks 0.33 0.33 0.33
+	Ka 0 0 0
+
+newmtl surface__118
+	Ns 58
+	d 1
+	illum 2
+	Kd 0.411765 0.411765 0.411765
+	Ks 0.33 0.33 0.33
+	Ka 0 0 0
+
+newmtl surface__119
+	Ns 58
+	d 1
+	illum 2
+	Kd 0.560784 0.568627 0.6
+	Ks 0.33 0.33 0.33
+	Ka 0 0 0
+
+newmtl surface__12
+	Ns 58
+	d 1
+	illum 2
+	Kd 0.8 0.717647 0.478431
+	Ks 0.33 0.33 0.33
+	Ka 0 0 0
+
+newmtl surface__120
+	Ns 58
+	d 1
+	illum 2
+	Kd 0.411765 0.411765 0.411765
+	Ks 0.33 0.33 0.33
+	Ka 0 0 0
+
+newmtl surface__121
+	Ns 58
+	d 1
+	illum 2
+	Kd 0.560784 0.568627 0.6
+	Ks 0.33 0.33 0.33
+	Ka 0 0 0
+
+newmtl surface__122
+	Ns 58
+	d 1
+	illum 2
+	Kd 0.827451 0.827451 0.827451
+	Ks 0.33 0.33 0.33
+	Ka 0 0 0
+
+newmtl surface__123
+	Ns 58
+	d 1
+	illum 2
+	Kd 0.560784 0.568627 0.6
+	Ks 0.33 0.33 0.33
+	Ka 0 0 0
+
+newmtl surface__124
+	Ns 58
+	d 1
+	illum 2
+	Kd 0.827451 0.827451 0.827451
+	Ks 0.33 0.33 0.33
+	Ka 0 0 0
+
+newmtl surface__125
+	Ns 58
+	d 1
+	illum 2
+	Kd 0.560784 0.568627 0.6
+	Ks 0.33 0.33 0.33
+	Ka 0 0 0
+
+newmtl surface__126
+	Ns 58
+	d 1
+	illum 2
+	Kd 0.411765 0.411765 0.411765
+	Ks 0.33 0.33 0.33
+	Ka 0 0 0
+
+newmtl surface__127
+	Ns 58
+	d 1
+	illum 2
+	Kd 0.560784 0.568627 0.6
+	Ks 0.33 0.33 0.33
+	Ka 0 0 0
+
+newmtl surface__128
+	Ns 58
+	d 1
+	illum 2
+	Kd 0.411765 0.411765 0.411765
+	Ks 0.33 0.33 0.33
+	Ka 0 0 0
+
+newmtl surface__129
+	Ns 58
+	d 1
+	illum 2
+	Kd 0.560784 0.568627 0.6
+	Ks 0.33 0.33 0.33
+	Ka 0 0 0
+
+newmtl surface__13
+	Ns 58
+	d 1
+	illum 2
+	Kd 0.560784 0.568627 0.6
+	Ks 0.33 0.33 0.33
+	Ka 0 0 0
+
+newmtl surface__130
+	Ns 58
+	d 1
+	illum 2
+	Kd 0.411765 0.411765 0.411765
+	Ks 0.33 0.33 0.33
+	Ka 0 0 0
+
+newmtl surface__131
+	Ns 58
+	d 1
+	illum 2
+	Kd 0.560784 0.568627 0.6
+	Ks 0.33 0.33 0.33
+	Ka 0 0 0
+
+newmtl surface__132
+	Ns 58
+	d 1
+	illum 2
+	Kd 0.411765 0.411765 0.411765
+	Ks 0.33 0.33 0.33
+	Ka 0 0 0
+
+newmtl surface__133
+	Ns 58
+	d 1
+	illum 2
+	Kd 0.560784 0.568627 0.6
+	Ks 0.33 0.33 0.33
+	Ka 0 0 0
+
+newmtl surface__134
+	Ns 58
+	d 1
+	illum 2
+	Kd 0.411765 0.411765 0.411765
+	Ks 0.33 0.33 0.33
+	Ka 0 0 0
+
+newmtl surface__135
+	Ns 58
+	d 1
+	illum 2
+	Kd 0.560784 0.568627 0.6
+	Ks 0.33 0.33 0.33
+	Ka 0 0 0
+
+newmtl surface__136
+	Ns 58
+	d 1
+	illum 2
+	Kd 0.827451 0.827451 0.827451
+	Ks 0.33 0.33 0.33
+	Ka 0 0 0
+
+newmtl surface__137
+	Ns 58
+	d 1
+	illum 2
+	Kd 0.560784 0.568627 0.6
+	Ks 0.33 0.33 0.33
+	Ka 0 0 0
+
+newmtl surface__138
+	Ns 58
+	d 1
+	illum 2
+	Kd 0.411765 0.411765 0.411765
+	Ks 0.33 0.33 0.33
+	Ka 0 0 0
+
+newmtl surface__139
+	Ns 58
+	d 1
+	illum 2
+	Kd 0.560784 0.568627 0.6
+	Ks 0.33 0.33 0.33
+	Ka 0 0 0
+
+newmtl surface__14
+	Ns 58
+	d 1
+	illum 2
+	Kd 0.180392 0.545098 0.341176
+	Ks 0.33 0.33 0.33
+	Ka 0 0 0
+
+newmtl surface__140
+	Ns 58
+	d 1
+	illum 2
+	Kd 0.411765 0.411765 0.411765
+	Ks 0.33 0.33 0.33
+	Ka 0 0 0
+
+newmtl surface__141
+	Ns 58
+	d 1
+	illum 2
+	Kd 0.560784 0.568627 0.6
+	Ks 0.33 0.33 0.33
+	Ka 0 0 0
+
+newmtl surface__142
+	Ns 58
+	d 1
+	illum 2
+	Kd 0.411765 0.411765 0.411765
+	Ks 0.33 0.33 0.33
+	Ka 0 0 0
+
+newmtl surface__143
+	Ns 58
+	d 1
+	illum 2
+	Kd 0.560784 0.568627 0.6
+	Ks 0.33 0.33 0.33
+	Ka 0 0 0
+
+newmtl surface__144
+	Ns 58
+	d 1
+	illum 2
+	Kd 0.752941 0.752941 0.752941
+	Ks 0.33 0.33 0.33
+	Ka 0 0 0
+
+newmtl surface__145
+	Ns 58
+	d 1
+	illum 2
+	Kd 1 1 1
+	Ks 0.33 0.33 0.33
+	Ka 0 0 0
+
+newmtl surface__146
+	Ns 58
+	d 1
+	illum 2
+	Kd 0.752941 0.752941 0.752941
+	Ks 0.33 0.33 0.33
+	Ka 0 0 0
+
+newmtl surface__147
+	Ns 58
+	d 1
+	illum 2
+	Kd 0.560784 0.568627 0.6
+	Ks 0.33 0.33 0.33
+	Ka 0 0 0
+
+newmtl surface__148
+	Ns 58
+	d 1
+	illum 2
+	Kd 0.752941 0.752941 0.752941
+	Ks 0.33 0.33 0.33
+	Ka 0 0 0
+
+newmtl surface__149
+	Ns 58
+	d 1
+	illum 2
+	Kd 0.560784 0.568627 0.6
+	Ks 0.33 0.33 0.33
+	Ka 0 0 0
+
+newmtl surface__15
+	Ns 58
+	d 1
+	illum 2
+	Kd 0.411765 0.411765 0.411765
+	Ks 0.33 0.33 0.33
+	Ka 0 0 0
+
+newmtl surface__150
+	Ns 58
+	d 1
+	illum 2
+	Kd 0.752941 0.752941 0.752941
+	Ks 0.33 0.33 0.33
+	Ka 0 0 0
+
+newmtl surface__151
+	Ns 58
+	d 1
+	illum 2
+	Kd 0.560784 0.568627 0.6
+	Ks 0.33 0.33 0.33
+	Ka 0 0 0
+
+newmtl surface__152
+	Ns 58
+	d 1
+	illum 2
+	Kd 0.752941 0.752941 0.752941
+	Ks 0.33 0.33 0.33
+	Ka 0 0 0
+
+newmtl surface__153
+	Ns 58
+	d 1
+	illum 2
+	Kd 0.560784 0.568627 0.6
+	Ks 0.33 0.33 0.33
+	Ka 0 0 0
+
+newmtl surface__154
+	Ns 58
+	d 1
+	illum 2
+	Kd 0.752941 0.752941 0.752941
+	Ks 0.33 0.33 0.33
+	Ka 0 0 0
+
+newmtl surface__155
+	Ns 58
+	d 1
+	illum 2
+	Kd 0.560784 0.568627 0.6
+	Ks 0.33 0.33 0.33
+	Ka 0 0 0
+
+newmtl surface__156
+	Ns 58
+	d 1
+	illum 2
+	Kd 0.752941 0.752941 0.752941
+	Ks 0.33 0.33 0.33
+	Ka 0 0 0
+
+newmtl surface__157
+	Ns 58
+	d 1
+	illum 2
+	Kd 0.560784 0.568627 0.6
+	Ks 0.33 0.33 0.33
+	Ka 0 0 0
+
+newmtl surface__158
+	Ns 58
+	d 1
+	illum 2
+	Kd 0.752941 0.752941 0.752941
+	Ks 0.33 0.33 0.33
+	Ka 0 0 0
+
+newmtl surface__159
+	Ns 58
+	d 1
+	illum 2
+	Kd 0.560784 0.568627 0.6
+	Ks 0.33 0.33 0.33
+	Ka 0 0 0
+
+newmtl surface__16
+	Ns 58
+	d 1
+	illum 2
+	Kd 0.752941 0.752941 0.752941
+	Ks 0.33 0.33 0.33
+	Ka 0 0 0
+
+newmtl surface__160
+	Ns 58
+	d 1
+	illum 2
+	Kd 0.752941 0.752941 0.752941
+	Ks 0.33 0.33 0.33
+	Ka 0 0 0
+
+newmtl surface__161
+	Ns 58
+	d 1
+	illum 2
+	Kd 0.560784 0.568627 0.6
+	Ks 0.33 0.33 0.33
+	Ka 0 0 0
+
+newmtl surface__162
+	Ns 58
+	d 1
+	illum 2
+	Kd 0.752941 0.752941 0.752941
+	Ks 0.33 0.33 0.33
+	Ka 0 0 0
+
+newmtl surface__163
+	Ns 58
+	d 1
+	illum 2
+	Kd 0.560784 0.568627 0.6
+	Ks 0.33 0.33 0.33
+	Ka 0 0 0
+
+newmtl surface__164
+	Ns 58
+	d 1
+	illum 2
+	Kd 0.752941 0.752941 0.752941
+	Ks 0.33 0.33 0.33
+	Ka 0 0 0
+
+newmtl surface__165
+	Ns 58
+	d 1
+	illum 2
+	Kd 0.560784 0.568627 0.6
+	Ks 0.33 0.33 0.33
+	Ka 0 0 0
+
+newmtl surface__166
+	Ns 58
+	d 1
+	illum 2
+	Kd 0.752941 0.752941 0.752941
+	Ks 0.33 0.33 0.33
+	Ka 0 0 0
+
+newmtl surface__167
+	Ns 58
+	d 1
+	illum 2
+	Kd 0.560784 0.568627 0.6
+	Ks 0.33 0.33 0.33
+	Ka 0 0 0
+
+newmtl surface__168
+	Ns 58
+	d 1
+	illum 2
+	Kd 0.752941 0.752941 0.752941
+	Ks 0.33 0.33 0.33
+	Ka 0 0 0
+
+newmtl surface__169
+	Ns 58
+	d 1
+	illum 2
+	Kd 0.560784 0.568627 0.6
+	Ks 0.33 0.33 0.33
+	Ka 0 0 0
+
+newmtl surface__17
+	Ns 58
+	d 1
+	illum 2
+	Kd 0.560784 0.568627 0.6
+	Ks 0.33 0.33 0.33
+	Ka 0 0 0
+
+newmtl surface__170
+	Ns 58
+	d 1
+	illum 2
+	Kd 0.752941 0.752941 0.752941
+	Ks 0.33 0.33 0.33
+	Ka 0 0 0
+
+newmtl surface__171
+	Ns 58
+	d 1
+	illum 2
+	Kd 0.560784 0.568627 0.6
+	Ks 0.33 0.33 0.33
+	Ka 0 0 0
+
+newmtl surface__172
+	Ns 58
+	d 1
+	illum 2
+	Kd 0.752941 0.752941 0.752941
+	Ks 0.33 0.33 0.33
+	Ka 0 0 0
+
+newmtl surface__173
+	Ns 58
+	d 1
+	illum 2
+	Kd 0.560784 0.568627 0.6
+	Ks 0.33 0.33 0.33
+	Ka 0 0 0
+
+newmtl surface__174
+	Ns 58
+	d 1
+	illum 2
+	Kd 0.752941 0.752941 0.752941
+	Ks 0.33 0.33 0.33
+	Ka 0 0 0
+
+newmtl surface__175
+	Ns 58
+	d 1
+	illum 2
+	Kd 0.560784 0.568627 0.6
+	Ks 0.33 0.33 0.33
+	Ka 0 0 0
+
+newmtl surface__176
+	Ns 58
+	d 1
+	illum 2
+	Kd 0.752941 0.752941 0.752941
+	Ks 0.33 0.33 0.33
+	Ka 0 0 0
+
+newmtl surface__177
+	Ns 58
+	d 1
+	illum 2
+	Kd 0.411765 0.411765 0.411765
+	Ks 0.33 0.33 0.33
+	Ka 0 0 0
+
+newmtl surface__178
+	Ns 58
+	d 1
+	illum 2
+	Kd 0.560784 0.568627 0.6
+	Ks 0.33 0.33 0.33
+	Ka 0 0 0
+
+newmtl surface__179
+	Ns 58
+	d 1
+	illum 2
+	Kd 0.411765 0.411765 0.411765
+	Ks 0.33 0.33 0.33
+	Ka 0 0 0
+
+newmtl surface__18
+	Ns 58
+	d 1
+	illum 2
+	Kd 0.752941 0.752941 0.752941
+	Ks 0.33 0.33 0.33
+	Ka 0 0 0
+
+newmtl surface__180
+	Ns 58
+	d 1
+	illum 2
+	Kd 0.560784 0.568627 0.6
+	Ks 0.33 0.33 0.33
+	Ka 0 0 0
+
+newmtl surface__181
+	Ns 58
+	d 1
+	illum 2
+	Kd 0.411765 0.411765 0.411765
+	Ks 0.33 0.33 0.33
+	Ka 0 0 0
+
+newmtl surface__182
+	Ns 58
+	d 1
+	illum 2
+	Kd 0.560784 0.568627 0.6
+	Ks 0.33 0.33 0.33
+	Ka 0 0 0
+
+newmtl surface__183
+	Ns 58
+	d 1
+	illum 2
+	Kd 0.411765 0.411765 0.411765
+	Ks 0.33 0.33 0.33
+	Ka 0 0 0
+
+newmtl surface__184
+	Ns 58
+	d 1
+	illum 2
+	Kd 0.560784 0.568627 0.6
+	Ks 0.33 0.33 0.33
+	Ka 0 0 0
+
+newmtl surface__185
+	Ns 58
+	d 1
+	illum 2
+	Kd 0.411765 0.411765 0.411765
+	Ks 0.33 0.33 0.33
+	Ka 0 0 0
+
+newmtl surface__186
+	Ns 58
+	d 1
+	illum 2
+	Kd 0.560784 0.568627 0.6
+	Ks 0.33 0.33 0.33
+	Ka 0 0 0
+
+newmtl surface__187
+	Ns 58
+	d 1
+	illum 2
+	Kd 0.827451 0.827451 0.827451
+	Ks 0.33 0.33 0.33
+	Ka 0 0 0
+
+newmtl surface__188
+	Ns 58
+	d 1
+	illum 2
+	Kd 0.560784 0.568627 0.6
+	Ks 0.33 0.33 0.33
+	Ka 0 0 0
+
+newmtl surface__189
+	Ns 58
+	d 1
+	illum 2
+	Kd 0.827451 0.827451 0.827451
+	Ks 0.33 0.33 0.33
+	Ka 0 0 0
+
+newmtl surface__19
+	Ns 58
+	d 1
+	illum 2
+	Kd 0.560784 0.568627 0.6
+	Ks 0.33 0.33 0.33
+	Ka 0 0 0
+
+newmtl surface__190
+	Ns 58
+	d 1
+	illum 2
+	Kd 0.560784 0.568627 0.6
+	Ks 0.33 0.33 0.33
+	Ka 0 0 0
+
+newmtl surface__191
+	Ns 58
+	d 1
+	illum 2
+	Kd 0.411765 0.411765 0.411765
+	Ks 0.33 0.33 0.33
+	Ka 0 0 0
+
+newmtl surface__192
+	Ns 58
+	d 1
+	illum 2
+	Kd 0.560784 0.568627 0.6
+	Ks 0.33 0.33 0.33
+	Ka 0 0 0
+
+newmtl surface__193
+	Ns 58
+	d 1
+	illum 2
+	Kd 0.411765 0.411765 0.411765
+	Ks 0.33 0.33 0.33
+	Ka 0 0 0
+
+newmtl surface__194
+	Ns 58
+	d 1
+	illum 2
+	Kd 0.560784 0.568627 0.6
+	Ks 0.33 0.33 0.33
+	Ka 0 0 0
+
+newmtl surface__195
+	Ns 58
+	d 1
+	illum 2
+	Kd 0.411765 0.411765 0.411765
+	Ks 0.33 0.33 0.33
+	Ka 0 0 0
+
+newmtl surface__196
+	Ns 58
+	d 1
+	illum 2
+	Kd 0.560784 0.568627 0.6
+	Ks 0.33 0.33 0.33
+	Ka 0 0 0
+
+newmtl surface__197
+	Ns 58
+	d 1
+	illum 2
+	Kd 0.411765 0.411765 0.411765
+	Ks 0.33 0.33 0.33
+	Ka 0 0 0
+
+newmtl surface__198
+	Ns 58
+	d 1
+	illum 2
+	Kd 0.560784 0.568627 0.6
+	Ks 0.33 0.33 0.33
+	Ka 0 0 0
+
+newmtl surface__199
+	Ns 58
+	d 1
+	illum 2
+	Kd 0.411765 0.411765 0.411765
+	Ks 0.33 0.33 0.33
+	Ka 0 0 0
+
+newmtl surface__2
+	Ns 58
+	d 1
+	illum 2
+	Kd 0.784314 0.784314 0.784314
+	Ks 0.33 0.33 0.33
+	Ka 0 0 0
+	map_Kd cladding_stucco_white.jpg
+
+newmtl surface__20
+	Ns 58
+	d 1
+	illum 2
+	Kd 0.752941 0.752941 0.752941
+	Ks 0.33 0.33 0.33
+	Ka 0 0 0
+
+newmtl surface__200
+	Ns 58
+	d 1
+	illum 2
+	Kd 0.560784 0.568627 0.6
+	Ks 0.33 0.33 0.33
+	Ka 0 0 0
+
+newmtl surface__201
+	Ns 58
+	d 1
+	illum 2
+	Kd 0.827451 0.827451 0.827451
+	Ks 0.33 0.33 0.33
+	Ka 0 0 0
+
+newmtl surface__202
+	Ns 58
+	d 1
+	illum 2
+	Kd 0.560784 0.568627 0.6
+	Ks 0.33 0.33 0.33
+	Ka 0 0 0
+
+newmtl surface__203
+	Ns 58
+	d 1
+	illum 2
+	Kd 0.411765 0.411765 0.411765
+	Ks 0.33 0.33 0.33
+	Ka 0 0 0
+
+newmtl surface__204
+	Ns 58
+	d 1
+	illum 2
+	Kd 0.560784 0.568627 0.6
+	Ks 0.33 0.33 0.33
+	Ka 0 0 0
+
+newmtl surface__205
+	Ns 58
+	d 1
+	illum 2
+	Kd 0.411765 0.411765 0.411765
+	Ks 0.33 0.33 0.33
+	Ka 0 0 0
+
+newmtl surface__206
+	Ns 58
+	d 1
+	illum 2
+	Kd 0.560784 0.568627 0.6
+	Ks 0.33 0.33 0.33
+	Ka 0 0 0
+
+newmtl surface__207
+	Ns 58
+	d 1
+	illum 2
+	Kd 0.411765 0.411765 0.411765
+	Ks 0.33 0.33 0.33
+	Ka 0 0 0
+
+newmtl surface__208
+	Ns 58
+	d 1
+	illum 2
+	Kd 0.560784 0.568627 0.6
+	Ks 0.33 0.33 0.33
+	Ka 0 0 0
+
+newmtl surface__209
+	Ns 58
+	d 1
+	illum 2
+	Kd 0.752941 0.752941 0.752941
+	Ks 0.33 0.33 0.33
+	Ka 0 0 0
+
+newmtl surface__21
+	Ns 58
+	d 1
+	illum 2
+	Kd 0.560784 0.568627 0.6
+	Ks 0.33 0.33 0.33
+	Ka 0 0 0
+
+newmtl surface__210
+	Ns 58
+	d 1
+	illum 2
+	Kd 1 1 1
+	Ks 0.33 0.33 0.33
+	Ka 0 0 0
+
+newmtl surface__211
+	Ns 58
+	d 1
+	illum 2
+	Kd 0.752941 0.752941 0.752941
+	Ks 0.33 0.33 0.33
+	Ka 0 0 0
+
+newmtl surface__212
+	Ns 58
+	d 1
+	illum 2
+	Kd 0.560784 0.568627 0.6
+	Ks 0.33 0.33 0.33
+	Ka 0 0 0
+
+newmtl surface__213
+	Ns 58
+	d 1
+	illum 2
+	Kd 0.752941 0.752941 0.752941
+	Ks 0.33 0.33 0.33
+	Ka 0 0 0
+
+newmtl surface__214
+	Ns 58
+	d 1
+	illum 2
+	Kd 0.560784 0.568627 0.6
+	Ks 0.33 0.33 0.33
+	Ka 0 0 0
+
+newmtl surface__215
+	Ns 58
+	d 1
+	illum 2
+	Kd 0.752941 0.752941 0.752941
+	Ks 0.33 0.33 0.33
+	Ka 0 0 0
+
+newmtl surface__216
+	Ns 58
+	d 1
+	illum 2
+	Kd 0.560784 0.568627 0.6
+	Ks 0.33 0.33 0.33
+	Ka 0 0 0
+
+newmtl surface__217
+	Ns 58
+	d 1
+	illum 2
+	Kd 0.752941 0.752941 0.752941
+	Ks 0.33 0.33 0.33
+	Ka 0 0 0
+
+newmtl surface__218
+	Ns 58
+	d 1
+	illum 2
+	Kd 0.560784 0.568627 0.6
+	Ks 0.33 0.33 0.33
+	Ka 0 0 0
+
+newmtl surface__219
+	Ns 58
+	d 1
+	illum 2
+	Kd 0.752941 0.752941 0.752941
+	Ks 0.33 0.33 0.33
+	Ka 0 0 0
+
+newmtl surface__22
+	Ns 58
+	d 1
+	illum 2
+	Kd 0.752941 0.752941 0.752941
+	Ks 0.33 0.33 0.33
+	Ka 0 0 0
+
+newmtl surface__220
+	Ns 58
+	d 1
+	illum 2
+	Kd 0.560784 0.568627 0.6
+	Ks 0.33 0.33 0.33
+	Ka 0 0 0
+
+newmtl surface__221
+	Ns 58
+	d 1
+	illum 2
+	Kd 0.752941 0.752941 0.752941
+	Ks 0.33 0.33 0.33
+	Ka 0 0 0
+
+newmtl surface__222
+	Ns 58
+	d 1
+	illum 2
+	Kd 0.560784 0.568627 0.6
+	Ks 0.33 0.33 0.33
+	Ka 0 0 0
+
+newmtl surface__223
+	Ns 58
+	d 1
+	illum 2
+	Kd 0.752941 0.752941 0.752941
+	Ks 0.33 0.33 0.33
+	Ka 0 0 0
+
+newmtl surface__224
+	Ns 58
+	d 1
+	illum 2
+	Kd 0.560784 0.568627 0.6
+	Ks 0.33 0.33 0.33
+	Ka 0 0 0
+
+newmtl surface__225
+	Ns 58
+	d 1
+	illum 2
+	Kd 0.752941 0.752941 0.752941
+	Ks 0.33 0.33 0.33
+	Ka 0 0 0
+
+newmtl surface__226
+	Ns 58
+	d 1
+	illum 2
+	Kd 0.560784 0.568627 0.6
+	Ks 0.33 0.33 0.33
+	Ka 0 0 0
+
+newmtl surface__227
+	Ns 58
+	d 1
+	illum 2
+	Kd 0.752941 0.752941 0.752941
+	Ks 0.33 0.33 0.33
+	Ka 0 0 0
+
+newmtl surface__228
+	Ns 58
+	d 1
+	illum 2
+	Kd 0.560784 0.568627 0.6
+	Ks 0.33 0.33 0.33
+	Ka 0 0 0
+
+newmtl surface__229
+	Ns 58
+	d 1
+	illum 2
+	Kd 0.752941 0.752941 0.752941
+	Ks 0.33 0.33 0.33
+	Ka 0 0 0
+
+newmtl surface__23
+	Ns 58
+	d 1
+	illum 2
+	Kd 0.560784 0.568627 0.6
+	Ks 0.33 0.33 0.33
+	Ka 0 0 0
+
+newmtl surface__230
+	Ns 58
+	d 1
+	illum 2
+	Kd 0.560784 0.568627 0.6
+	Ks 0.33 0.33 0.33
+	Ka 0 0 0
+
+newmtl surface__231
+	Ns 58
+	d 1
+	illum 2
+	Kd 0.752941 0.752941 0.752941
+	Ks 0.33 0.33 0.33
+	Ka 0 0 0
+
+newmtl surface__232
+	Ns 58
+	d 1
+	illum 2
+	Kd 0.560784 0.568627 0.6
+	Ks 0.33 0.33 0.33
+	Ka 0 0 0
+
+newmtl surface__233
+	Ns 58
+	d 1
+	illum 2
+	Kd 0.752941 0.752941 0.752941
+	Ks 0.33 0.33 0.33
+	Ka 0 0 0
+
+newmtl surface__234
+	Ns 58
+	d 1
+	illum 2
+	Kd 0.560784 0.568627 0.6
+	Ks 0.33 0.33 0.33
+	Ka 0 0 0
+
+newmtl surface__235
+	Ns 58
+	d 1
+	illum 2
+	Kd 0.752941 0.752941 0.752941
+	Ks 0.33 0.33 0.33
+	Ka 0 0 0
+
+newmtl surface__236
+	Ns 58
+	d 1
+	illum 2
+	Kd 0.560784 0.568627 0.6
+	Ks 0.33 0.33 0.33
+	Ka 0 0 0
+
+newmtl surface__237
+	Ns 58
+	d 1
+	illum 2
+	Kd 0.752941 0.752941 0.752941
+	Ks 0.33 0.33 0.33
+	Ka 0 0 0
+
+newmtl surface__238
+	Ns 58
+	d 1
+	illum 2
+	Kd 0.560784 0.568627 0.6
+	Ks 0.33 0.33 0.33
+	Ka 0 0 0
+
+newmtl surface__239
+	Ns 58
+	d 1
+	illum 2
+	Kd 0.752941 0.752941 0.752941
+	Ks 0.33 0.33 0.33
+	Ka 0 0 0
+
+newmtl surface__24
+	Ns 58
+	d 1
+	illum 2
+	Kd 0.752941 0.752941 0.752941
+	Ks 0.33 0.33 0.33
+	Ka 0 0 0
+
+newmtl surface__240
+	Ns 58
+	d 1
+	illum 2
+	Kd 0.560784 0.568627 0.6
+	Ks 0.33 0.33 0.33
+	Ka 0 0 0
+
+newmtl surface__241
+	Ns 58
+	d 1
+	illum 2
+	Kd 0.752941 0.752941 0.752941
+	Ks 0.33 0.33 0.33
+	Ka 0 0 0
+
+newmtl surface__242
+	Ns 58
+	d 1
+	illum 2
+	Kd 0.411765 0.411765 0.411765
+	Ks 0.33 0.33 0.33
+	Ka 0 0 0
+
+newmtl surface__243
+	Ns 58
+	d 1
+	illum 2
+	Kd 0.560784 0.568627 0.6
+	Ks 0.33 0.33 0.33
+	Ka 0 0 0
+
+newmtl surface__244
+	Ns 58
+	d 1
+	illum 2
+	Kd 0.411765 0.411765 0.411765
+	Ks 0.33 0.33 0.33
+	Ka 0 0 0
+
+newmtl surface__245
+	Ns 58
+	d 1
+	illum 2
+	Kd 0.560784 0.568627 0.6
+	Ks 0.33 0.33 0.33
+	Ka 0 0 0
+
+newmtl surface__246
+	Ns 58
+	d 1
+	illum 2
+	Kd 0.411765 0.411765 0.411765
+	Ks 0.33 0.33 0.33
+	Ka 0 0 0
+
+newmtl surface__247
+	Ns 58
+	d 1
+	illum 2
+	Kd 0.560784 0.568627 0.6
+	Ks 0.33 0.33 0.33
+	Ka 0 0 0
+
+newmtl surface__248
+	Ns 58
+	d 1
+	illum 2
+	Kd 0.411765 0.411765 0.411765
+	Ks 0.33 0.33 0.33
+	Ka 0 0 0
+
+newmtl surface__249
+	Ns 58
+	d 1
+	illum 2
+	Kd 0.560784 0.568627 0.6
+	Ks 0.33 0.33 0.33
+	Ka 0 0 0
+
+newmtl surface__25
+	Ns 58
+	d 1
+	illum 2
+	Kd 0.560784 0.568627 0.6
+	Ks 0.33 0.33 0.33
+	Ka 0 0 0
+
+newmtl surface__250
+	Ns 58
+	d 1
+	illum 2
+	Kd 0.411765 0.411765 0.411765
+	Ks 0.33 0.33 0.33
+	Ka 0 0 0
+
+newmtl surface__251
+	Ns 58
+	d 1
+	illum 2
+	Kd 0.560784 0.568627 0.6
+	Ks 0.33 0.33 0.33
+	Ka 0 0 0
+
+newmtl surface__252
+	Ns 58
+	d 1
+	illum 2
+	Kd 0.827451 0.827451 0.827451
+	Ks 0.33 0.33 0.33
+	Ka 0 0 0
+
+newmtl surface__253
+	Ns 58
+	d 1
+	illum 2
+	Kd 0.560784 0.568627 0.6
+	Ks 0.33 0.33 0.33
+	Ka 0 0 0
+
+newmtl surface__254
+	Ns 58
+	d 1
+	illum 2
+	Kd 0.827451 0.827451 0.827451
+	Ks 0.33 0.33 0.33
+	Ka 0 0 0
+
+newmtl surface__255
+	Ns 58
+	d 1
+	illum 2
+	Kd 0.560784 0.568627 0.6
+	Ks 0.33 0.33 0.33
+	Ka 0 0 0
+
+newmtl surface__256
+	Ns 58
+	d 1
+	illum 2
+	Kd 0.411765 0.411765 0.411765
+	Ks 0.33 0.33 0.33
+	Ka 0 0 0
+
+newmtl surface__257
+	Ns 58
+	d 1
+	illum 2
+	Kd 0.560784 0.568627 0.6
+	Ks 0.33 0.33 0.33
+	Ka 0 0 0
+
+newmtl surface__258
+	Ns 58
+	d 1
+	illum 2
+	Kd 0.411765 0.411765 0.411765
+	Ks 0.33 0.33 0.33
+	Ka 0 0 0
+
+newmtl surface__259
+	Ns 58
+	d 1
+	illum 2
+	Kd 0.560784 0.568627 0.6
+	Ks 0.33 0.33 0.33
+	Ka 0 0 0
+
+newmtl surface__26
+	Ns 58
+	d 1
+	illum 2
+	Kd 0.752941 0.752941 0.752941
+	Ks 0.33 0.33 0.33
+	Ka 0 0 0
+
+newmtl surface__260
+	Ns 58
+	d 1
+	illum 2
+	Kd 0.411765 0.411765 0.411765
+	Ks 0.33 0.33 0.33
+	Ka 0 0 0
+
+newmtl surface__261
+	Ns 58
+	d 1
+	illum 2
+	Kd 0.560784 0.568627 0.6
+	Ks 0.33 0.33 0.33
+	Ka 0 0 0
+
+newmtl surface__262
+	Ns 58
+	d 1
+	illum 2
+	Kd 0.411765 0.411765 0.411765
+	Ks 0.33 0.33 0.33
+	Ka 0 0 0
+
+newmtl surface__263
+	Ns 58
+	d 1
+	illum 2
+	Kd 0.560784 0.568627 0.6
+	Ks 0.33 0.33 0.33
+	Ka 0 0 0
+
+newmtl surface__264
+	Ns 58
+	d 1
+	illum 2
+	Kd 0.411765 0.411765 0.411765
+	Ks 0.33 0.33 0.33
+	Ka 0 0 0
+
+newmtl surface__265
+	Ns 58
+	d 1
+	illum 2
+	Kd 0.560784 0.568627 0.6
+	Ks 0.33 0.33 0.33
+	Ka 0 0 0
+
+newmtl surface__266
+	Ns 58
+	d 1
+	illum 2
+	Kd 0.827451 0.827451 0.827451
+	Ks 0.33 0.33 0.33
+	Ka 0 0 0
+
+newmtl surface__267
+	Ns 58
+	d 1
+	illum 2
+	Kd 0.560784 0.568627 0.6
+	Ks 0.33 0.33 0.33
+	Ka 0 0 0
+
+newmtl surface__268
+	Ns 58
+	d 1
+	illum 2
+	Kd 0.411765 0.411765 0.411765
+	Ks 0.33 0.33 0.33
+	Ka 0 0 0
+
+newmtl surface__269
+	Ns 58
+	d 1
+	illum 2
+	Kd 0.560784 0.568627 0.6
+	Ks 0.33 0.33 0.33
+	Ka 0 0 0
+
+newmtl surface__27
+	Ns 58
+	d 1
+	illum 2
+	Kd 0.560784 0.568627 0.6
+	Ks 0.33 0.33 0.33
+	Ka 0 0 0
+
+newmtl surface__270
+	Ns 58
+	d 1
+	illum 2
+	Kd 0.411765 0.411765 0.411765
+	Ks 0.33 0.33 0.33
+	Ka 0 0 0
+
+newmtl surface__271
+	Ns 58
+	d 1
+	illum 2
+	Kd 0.560784 0.568627 0.6
+	Ks 0.33 0.33 0.33
+	Ka 0 0 0
+
+newmtl surface__272
+	Ns 58
+	d 1
+	illum 2
+	Kd 0.411765 0.411765 0.411765
+	Ks 0.33 0.33 0.33
+	Ka 0 0 0
+
+newmtl surface__273
+	Ns 58
+	d 1
+	illum 2
+	Kd 0.560784 0.568627 0.6
+	Ks 0.33 0.33 0.33
+	Ka 0 0 0
+
+newmtl surface__274
+	Ns 58
+	d 1
+	illum 2
+	Kd 0.752941 0.752941 0.752941
+	Ks 0.33 0.33 0.33
+	Ka 0 0 0
+
+newmtl surface__275
+	Ns 58
+	d 1
+	illum 2
+	Kd 1 1 1
+	Ks 0.33 0.33 0.33
+	Ka 0 0 0
+
+newmtl surface__276
+	Ns 58
+	d 1
+	illum 2
+	Kd 0.752941 0.752941 0.752941
+	Ks 0.33 0.33 0.33
+	Ka 0 0 0
+
+newmtl surface__277
+	Ns 58
+	d 1
+	illum 2
+	Kd 0.117647 0.6 0.6
+	Ks 0.33 0.33 0.33
+	Ka 0 0 0
+
+newmtl surface__278
+	Ns 58
+	d 1
+	illum 2
+	Kd 0.337255 0.337255 0.337255
+	Ks 0.33 0.33 0.33
+	Ka 0 0 0
+
+newmtl surface__279
+	Ns 58
+	d 1
+	illum 2
+	Kd 0.92549 0.92549 0.92549
+	Ks 0.33 0.33 0.33
+	Ka 0 0 0
+	map_Kd erc_existing.jpg
+
+newmtl surface__28
+	Ns 58
+	d 1
+	illum 2
+	Kd 0.752941 0.752941 0.752941
+	Ks 0.33 0.33 0.33
+	Ka 0 0 0
+
+newmtl surface__280
+	Ns 58
+	d 1
+	illum 2
+	Kd 1 1 1
+	Ks 0.33 0.33 0.33
+	Ka 0 0 0
+
+newmtl surface__281
+	Ns 58
+	d 1
+	illum 2
+	Kd 0.8 0.717647 0.478431
+	Ks 0.33 0.33 0.33
+	Ka 0 0 0
+
+newmtl surface__282
+	Ns 58
+	d 1
+	illum 2
+	Kd 0.8 0.717647 0.478431
+	Ks 0.33 0.33 0.33
+	Ka 0 0 0
+
+newmtl surface__283
+	Ns 58
+	d 1
+	illum 2
+	Kd 0.501961 0.501961 0.501961
+	Ks 0 0 0
+	Ka 0 0 0
+	map_Kd ucsd_ortho_2.jpg
+
+newmtl surface__29
+	Ns 58
+	d 1
+	illum 2
+	Kd 0.560784 0.568627 0.6
+	Ks 0.33 0.33 0.33
+	Ka 0 0 0
+
+newmtl surface__3
+	Ns 58
+	d 1
+	illum 2
+	Kd 0.639216 0.611765 0.54902
+	Ks 0.33 0.33 0.33
+	Ka 0 0 0
+	map_Kd top_of_model.jpg
+
+newmtl surface__30
+	Ns 58
+	d 1
+	illum 2
+	Kd 0.752941 0.752941 0.752941
+	Ks 0.33 0.33 0.33
+	Ka 0 0 0
+
+newmtl surface__31
+	Ns 58
+	d 1
+	illum 2
+	Kd 0.560784 0.568627 0.6
+	Ks 0.33 0.33 0.33
+	Ka 0 0 0
+
+newmtl surface__32
+	Ns 58
+	d 1
+	illum 2
+	Kd 0.752941 0.752941 0.752941
+	Ks 0.33 0.33 0.33
+	Ka 0 0 0
+
+newmtl surface__33
+	Ns 58
+	d 1
+	illum 2
+	Kd 0.560784 0.568627 0.6
+	Ks 0.33 0.33 0.33
+	Ka 0 0 0
+
+newmtl surface__34
+	Ns 58
+	d 1
+	illum 2
+	Kd 0.752941 0.752941 0.752941
+	Ks 0.33 0.33 0.33
+	Ka 0 0 0
+
+newmtl surface__35
+	Ns 58
+	d 1
+	illum 2
+	Kd 0.560784 0.568627 0.6
+	Ks 0.33 0.33 0.33
+	Ka 0 0 0
+
+newmtl surface__36
+	Ns 58
+	d 1
+	illum 2
+	Kd 0.752941 0.752941 0.752941
+	Ks 0.33 0.33 0.33
+	Ka 0 0 0
+
+newmtl surface__37
+	Ns 58
+	d 1
+	illum 2
+	Kd 0.560784 0.568627 0.6
+	Ks 0.33 0.33 0.33
+	Ka 0 0 0
+
+newmtl surface__38
+	Ns 58
+	d 1
+	illum 2
+	Kd 0.752941 0.752941 0.752941
+	Ks 0.33 0.33 0.33
+	Ka 0 0 0
+
+newmtl surface__39
+	Ns 58
+	d 1
+	illum 2
+	Kd 0.560784 0.568627 0.6
+	Ks 0.33 0.33 0.33
+	Ka 0 0 0
+
+newmtl surface__4
+	Ns 58
+	d 1
+	illum 2
+	Kd 0.380392 0.611765 0.819608
+	Ks 0.33 0.33 0.33
+	Ka 0 0 0
+	map_Kd material2.jpg
+
+newmtl surface__40
+	Ns 58
+	d 1
+	illum 2
+	Kd 0.752941 0.752941 0.752941
+	Ks 0.33 0.33 0.33
+	Ka 0 0 0
+
+newmtl surface__41
+	Ns 58
+	d 1
+	illum 2
+	Kd 0.560784 0.568627 0.6
+	Ks 0.33 0.33 0.33
+	Ka 0 0 0
+
+newmtl surface__42
+	Ns 58
+	d 1
+	illum 2
+	Kd 0.752941 0.752941 0.752941
+	Ks 0.33 0.33 0.33
+	Ka 0 0 0
+
+newmtl surface__43
+	Ns 58
+	d 1
+	illum 2
+	Kd 0.560784 0.568627 0.6
+	Ks 0.33 0.33 0.33
+	Ka 0 0 0
+
+newmtl surface__44
+	Ns 58
+	d 1
+	illum 2
+	Kd 0.752941 0.752941 0.752941
+	Ks 0.33 0.33 0.33
+	Ka 0 0 0
+
+newmtl surface__45
+	Ns 58
+	d 1
+	illum 2
+	Kd 0.560784 0.568627 0.6
+	Ks 0.33 0.33 0.33
+	Ka 0 0 0
+
+newmtl surface__46
+	Ns 58
+	d 1
+	illum 2
+	Kd 0.752941 0.752941 0.752941
+	Ks 0.33 0.33 0.33
+	Ka 0 0 0
+
+newmtl surface__47
+	Ns 58
+	d 1
+	illum 2
+	Kd 0.411765 0.411765 0.411765
+	Ks 0.33 0.33 0.33
+	Ka 0 0 0
+
+newmtl surface__48
+	Ns 58
+	d 1
+	illum 2
+	Kd 0.560784 0.568627 0.6
+	Ks 0.33 0.33 0.33
+	Ka 0 0 0
+
+newmtl surface__49
+	Ns 58
+	d 1
+	illum 2
+	Kd 0.411765 0.411765 0.411765
+	Ks 0.33 0.33 0.33
+	Ka 0 0 0
+
+newmtl surface__5
+	Ns 58
+	d 1
+	illum 2
+	Kd 1 1 1
+	Ks 0.33 0.33 0.33
+	Ka 0 0 0
+
+newmtl surface__50
+	Ns 58
+	d 1
+	illum 2
+	Kd 0.560784 0.568627 0.6
+	Ks 0.33 0.33 0.33
+	Ka 0 0 0
+
+newmtl surface__51
+	Ns 58
+	d 1
+	illum 2
+	Kd 0.411765 0.411765 0.411765
+	Ks 0.33 0.33 0.33
+	Ka 0 0 0
+
+newmtl surface__52
+	Ns 58
+	d 1
+	illum 2
+	Kd 0.560784 0.568627 0.6
+	Ks 0.33 0.33 0.33
+	Ka 0 0 0
+
+newmtl surface__53
+	Ns 58
+	d 1
+	illum 2
+	Kd 0.411765 0.411765 0.411765
+	Ks 0.33 0.33 0.33
+	Ka 0 0 0
+
+newmtl surface__54
+	Ns 58
+	d 1
+	illum 2
+	Kd 0.560784 0.568627 0.6
+	Ks 0.33 0.33 0.33
+	Ka 0 0 0
+
+newmtl surface__55
+	Ns 58
+	d 1
+	illum 2
+	Kd 0.411765 0.411765 0.411765
+	Ks 0.33 0.33 0.33
+	Ka 0 0 0
+
+newmtl surface__56
+	Ns 58
+	d 1
+	illum 2
+	Kd 0.560784 0.568627 0.6
+	Ks 0.33 0.33 0.33
+	Ka 0 0 0
+
+newmtl surface__57
+	Ns 58
+	d 1
+	illum 2
+	Kd 0.827451 0.827451 0.827451
+	Ks 0.33 0.33 0.33
+	Ka 0 0 0
+
+newmtl surface__58
+	Ns 58
+	d 1
+	illum 2
+	Kd 0.560784 0.568627 0.6
+	Ks 0.33 0.33 0.33
+	Ka 0 0 0
+
+newmtl surface__59
+	Ns 58
+	d 1
+	illum 2
+	Kd 0.827451 0.827451 0.827451
+	Ks 0.33 0.33 0.33
+	Ka 0 0 0
+
+newmtl surface__6
+	Ns 58
+	d 1
+	illum 2
+	Kd 0.615686 0.619608 0.603922
+	Ks 0.33 0.33 0.33
+	Ka 0 0 0
+	map_Kd concrete_block_8x8_gray.jpg
+
+newmtl surface__60
+	Ns 58
+	d 1
+	illum 2
+	Kd 0.560784 0.568627 0.6
+	Ks 0.33 0.33 0.33
+	Ka 0 0 0
+
+newmtl surface__61
+	Ns 58
+	d 1
+	illum 2
+	Kd 0.411765 0.411765 0.411765
+	Ks 0.33 0.33 0.33
+	Ka 0 0 0
+
+newmtl surface__62
+	Ns 58
+	d 1
+	illum 2
+	Kd 0.560784 0.568627 0.6
+	Ks 0.33 0.33 0.33
+	Ka 0 0 0
+
+newmtl surface__63
+	Ns 58
+	d 1
+	illum 2
+	Kd 0.411765 0.411765 0.411765
+	Ks 0.33 0.33 0.33
+	Ka 0 0 0
+
+newmtl surface__64
+	Ns 58
+	d 1
+	illum 2
+	Kd 0.560784 0.568627 0.6
+	Ks 0.33 0.33 0.33
+	Ka 0 0 0
+
+newmtl surface__65
+	Ns 58
+	d 1
+	illum 2
+	Kd 0.411765 0.411765 0.411765
+	Ks 0.33 0.33 0.33
+	Ka 0 0 0
+
+newmtl surface__66
+	Ns 58
+	d 1
+	illum 2
+	Kd 0.560784 0.568627 0.6
+	Ks 0.33 0.33 0.33
+	Ka 0 0 0
+
+newmtl surface__67
+	Ns 58
+	d 1
+	illum 2
+	Kd 0.411765 0.411765 0.411765
+	Ks 0.33 0.33 0.33
+	Ka 0 0 0
+
+newmtl surface__68
+	Ns 58
+	d 1
+	illum 2
+	Kd 0.560784 0.568627 0.6
+	Ks 0.33 0.33 0.33
+	Ka 0 0 0
+
+newmtl surface__69
+	Ns 58
+	d 1
+	illum 2
+	Kd 0.411765 0.411765 0.411765
+	Ks 0.33 0.33 0.33
+	Ka 0 0 0
+
+newmtl surface__7
+	Ns 58
+	d 1
+	illum 2
+	Kd 1 1 1
+	Ks 0.33 0.33 0.33
+	Ka 0 0 0
+
+newmtl surface__70
+	Ns 58
+	d 1
+	illum 2
+	Kd 0.560784 0.568627 0.6
+	Ks 0.33 0.33 0.33
+	Ka 0 0 0
+
+newmtl surface__71
+	Ns 58
+	d 1
+	illum 2
+	Kd 0.827451 0.827451 0.827451
+	Ks 0.33 0.33 0.33
+	Ka 0 0 0
+
+newmtl surface__72
+	Ns 58
+	d 1
+	illum 2
+	Kd 0.560784 0.568627 0.6
+	Ks 0.33 0.33 0.33
+	Ka 0 0 0
+
+newmtl surface__73
+	Ns 58
+	d 1
+	illum 2
+	Kd 0.411765 0.411765 0.411765
+	Ks 0.33 0.33 0.33
+	Ka 0 0 0
+
+newmtl surface__74
+	Ns 58
+	d 1
+	illum 2
+	Kd 0.560784 0.568627 0.6
+	Ks 0.33 0.33 0.33
+	Ka 0 0 0
+
+newmtl surface__75
+	Ns 58
+	d 1
+	illum 2
+	Kd 0.411765 0.411765 0.411765
+	Ks 0.33 0.33 0.33
+	Ka 0 0 0
+
+newmtl surface__76
+	Ns 58
+	d 1
+	illum 2
+	Kd 0.560784 0.568627 0.6
+	Ks 0.33 0.33 0.33
+	Ka 0 0 0
+
+newmtl surface__77
+	Ns 58
+	d 1
+	illum 2
+	Kd 0.411765 0.411765 0.411765
+	Ks 0.33 0.33 0.33
+	Ka 0 0 0
+
+newmtl surface__78
+	Ns 58
+	d 1
+	illum 2
+	Kd 0.560784 0.568627 0.6
+	Ks 0.33 0.33 0.33
+	Ka 0 0 0
+
+newmtl surface__79
+	Ns 58
+	d 1
+	illum 2
+	Kd 0.752941 0.752941 0.752941
+	Ks 0.33 0.33 0.33
+	Ka 0 0 0
+
+newmtl surface__8
+	Ns 58
+	d 1
+	illum 2
+	Kd 0.8 0.717647 0.478431
+	Ks 0.33 0.33 0.33
+	Ka 0 0 0
+
+newmtl surface__80
+	Ns 58
+	d 1
+	illum 2
+	Kd 1 1 1
+	Ks 0.33 0.33 0.33
+	Ka 0 0 0
+
+newmtl surface__81
+	Ns 58
+	d 1
+	illum 2
+	Kd 0.752941 0.752941 0.752941
+	Ks 0.33 0.33 0.33
+	Ka 0 0 0
+
+newmtl surface__82
+	Ns 58
+	d 1
+	illum 2
+	Kd 0.560784 0.568627 0.6
+	Ks 0.33 0.33 0.33
+	Ka 0 0 0
+
+newmtl surface__83
+	Ns 58
+	d 1
+	illum 2
+	Kd 0.752941 0.752941 0.752941
+	Ks 0.33 0.33 0.33
+	Ka 0 0 0
+
+newmtl surface__84
+	Ns 58
+	d 1
+	illum 2
+	Kd 0.560784 0.568627 0.6
+	Ks 0.33 0.33 0.33
+	Ka 0 0 0
+
+newmtl surface__85
+	Ns 58
+	d 1
+	illum 2
+	Kd 0.752941 0.752941 0.752941
+	Ks 0.33 0.33 0.33
+	Ka 0 0 0
+
+newmtl surface__86
+	Ns 58
+	d 1
+	illum 2
+	Kd 0.560784 0.568627 0.6
+	Ks 0.33 0.33 0.33
+	Ka 0 0 0
+
+newmtl surface__87
+	Ns 58
+	d 1
+	illum 2
+	Kd 0.752941 0.752941 0.752941
+	Ks 0.33 0.33 0.33
+	Ka 0 0 0
+
+newmtl surface__88
+	Ns 58
+	d 1
+	illum 2
+	Kd 0.560784 0.568627 0.6
+	Ks 0.33 0.33 0.33
+	Ka 0 0 0
+
+newmtl surface__89
+	Ns 58
+	d 1
+	illum 2
+	Kd 0.752941 0.752941 0.752941
+	Ks 0.33 0.33 0.33
+	Ka 0 0 0
+
+newmtl surface__9
+	Ns 58
+	d 1
+	illum 2
+	Kd 1 1 1
+	Ks 0.33 0.33 0.33
+	Ka 0 0 0
+
+newmtl surface__90
+	Ns 58
+	d 1
+	illum 2
+	Kd 0.560784 0.568627 0.6
+	Ks 0.33 0.33 0.33
+	Ka 0 0 0
+
+newmtl surface__91
+	Ns 58
+	d 1
+	illum 2
+	Kd 0.752941 0.752941 0.752941
+	Ks 0.33 0.33 0.33
+	Ka 0 0 0
+
+newmtl surface__92
+	Ns 58
+	d 1
+	illum 2
+	Kd 0.560784 0.568627 0.6
+	Ks 0.33 0.33 0.33
+	Ka 0 0 0
+
+newmtl surface__93
+	Ns 58
+	d 1
+	illum 2
+	Kd 0.752941 0.752941 0.752941
+	Ks 0.33 0.33 0.33
+	Ka 0 0 0
+
+newmtl surface__94
+	Ns 58
+	d 1
+	illum 2
+	Kd 0.560784 0.568627 0.6
+	Ks 0.33 0.33 0.33
+	Ka 0 0 0
+
+newmtl surface__95
+	Ns 58
+	d 1
+	illum 2
+	Kd 0.752941 0.752941 0.752941
+	Ks 0.33 0.33 0.33
+	Ka 0 0 0
+
+newmtl surface__96
+	Ns 58
+	d 1
+	illum 2
+	Kd 0.560784 0.568627 0.6
+	Ks 0.33 0.33 0.33
+	Ka 0 0 0
+
+newmtl surface__97
+	Ns 58
+	d 1
+	illum 2
+	Kd 0.752941 0.752941 0.752941
+	Ks 0.33 0.33 0.33
+	Ka 0 0 0
+
+newmtl surface__98
+	Ns 58
+	d 1
+	illum 2
+	Kd 0.560784 0.568627 0.6
+	Ks 0.33 0.33 0.33
+	Ka 0 0 0
+
+newmtl surface__99
+	Ns 58
+	d 1
+	illum 2
+	Kd 0.752941 0.752941 0.752941
+	Ks 0.33 0.33 0.33
+	Ka 0 0 0
+
